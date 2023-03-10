@@ -1,2 +1,2 @@
 # Servo_Rfid
-Servo motorun kullanımına yönelik Rfid kart ile Arduino üzerine bir örnek uygulama yapılmıştır.
+A sample applications has benn made on the Arduino with the RFID card for the use of the Servo motor.
